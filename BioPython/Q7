@@ -1,0 +1,5 @@
+Write a program that asks the user how many patients visited the hospital today. Then, for each patient, create and display a unique ID number in this format:
+
+P0001
+P0002
+P0003
