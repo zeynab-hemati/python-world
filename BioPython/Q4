@@ -1,0 +1,7 @@
+• Write a program that takes a patient’s weight (kg) and height (m), calculates the BMI and prints the correct category:
+○ BMI ≤ 18.5 : "Underweight"
+○ 18.5 < BMI < 25 : "Healthy weight"
+○ 25 ≤ BMI < 30 : "Overweight"
+○ 30 ≤ BMI < 35 : "Obese (Class I)"
+○ 35 ≤ BMI < 40 : "Obese (Class II)"
+○ BMI ≥ 40 : "Obese (Class III)"
