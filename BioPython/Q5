@@ -1,3 +1,0 @@
-Ask the user to enter a DNA sequence.
-• If the sequence contains any character other than A, T, G, or C, print an error message and ask again.
-• If the sequence is valid, create and print its complementary DNA.

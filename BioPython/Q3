@@ -1,4 +1,0 @@
-A patient’s record number is given as a string, for example "MRN2025".
-Write a program that checks whether the string starts with "MRN".
-• Print "Valid medical record number" if it starts with "MRN".
-• Print "Invalid code" otherwise.

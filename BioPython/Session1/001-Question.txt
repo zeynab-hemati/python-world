@@ -1,1 +1,0 @@
-Write a program that takes a text from the user and checks if the word "patient" is in the text. The result must be a boolean value (True or False) without using any if statements.
