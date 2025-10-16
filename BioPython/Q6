@@ -1,0 +1,4 @@
+Write a program that asks the user to enter a patient’s age.
+• If the age is less than 0 or greater than 120, show an error message and ask again.
+• The program should continue until the user enters a valid age.
+• When a valid age is entered, print: "Age accepted: X years"
